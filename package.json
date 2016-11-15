@@ -1,4 +1,7 @@
 {
+    "name": "angular-big",
+  "version": "1.0.0",
+  "description": "Angular Big for npm",
     "scripts": {
         "postinstall": "node ./node_modules/bower/bin/bower install"
     },
